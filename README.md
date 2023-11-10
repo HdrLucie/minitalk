@@ -9,7 +9,9 @@ Minitalk is a small communication program that allows us to implement a client/s
 
 ## Usage
 Build the executable for the server and the client
-```make```
+```
+make
+```
 Run the server exec, then run the client specifying the server's ID process
 ```
 ./server
@@ -29,7 +31,9 @@ Minitalk est un programme de communication rudimentaire qui nous permet d'implé
 
 ## Utilisation
 Build les exécutables du client et du serveur
-```make```
+```
+make
+```
 Run l'exécutable du serveur dans un premier temps puis celui du client en spécifiant l'ID du serveur
 ```
 ./server
