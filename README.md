@@ -24,7 +24,7 @@ Feel free to explore the source code to understand its detailed workings.
 
 ## A propos
 
-Minitalk est un programme de communication rudimentaire qui nous permet d'implémenter une architecture client/serveur et de découvrir comment utiliser les signaux.
+Minitalk est un programme de communication rudimentaire qui nous permet d'implémenter une architecture client/serveur et de découvrir comment utiliser les signaux.
 # Pour commencer
 
 ## Utilisation
